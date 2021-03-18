@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CC&#39;s Zone</title>
+  
+  
+  <link href="http://ccs.zone/atom.xml" rel="self"/>
+  
+  <link href="http://ccs.zone/"/>
+  <updated>2021-03-17T04:05:52.747Z</updated>
+  <id>http://ccs.zone/</id>
+  
+  <author>
+    <name>Cai Cheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Github和jsDelivr作为图床</title>
+    <link href="http://ccs.zone/2021/02/28/%E4%BD%BF%E7%94%A8Github%E5%92%8Cjsdelivr%E4%BD%9C%E4%B8%BA%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://ccs.zone/2021/02/28/%E4%BD%BF%E7%94%A8Github%E5%92%8Cjsdelivr%E4%BD%9C%E4%B8%BA%E5%9B%BE%E5%BA%8A/</id>
+    <published>2021-02-28T12:06:43.000Z</published>
+    <updated>2021-03-17T04:05:52.747Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://ccs.zone/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些简单的想法</title>
+    <link href="http://ccs.zone/2021/02/21/%E4%B8%80%E4%BA%9B%E7%AE%80%E5%8D%95%E7%9A%84%E6%83%B3%E6%B3%95/"/>
+    <id>http://ccs.zone/2021/02/21/%E4%B8%80%E4%BA%9B%E7%AE%80%E5%8D%95%E7%9A%84%E6%83%B3%E6%B3%95/</id>
+    <published>2021-02-21T04:07:32.000Z</published>
+    <updated>2021-02-28T12:48:37.508Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="http://ccs.zone/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>合理使用浏览器插件和脚本</title>
+    <link href="http://ccs.zone/2020/12/06/%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%92%8C%E8%84%9A%E6%9C%AC/"/>
+    <id>http://ccs.zone/2020/12/06/%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%92%8C%E8%84%9A%E6%9C%AC/</id>
+    <published>2020-12-06T00:53:43.000Z</published>
+    <updated>2021-02-28T12:47:04.861Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://ccs.zone/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《优秀的绵羊》书摘</title>
+    <link href="http://ccs.zone/2020/11/11/%E4%B9%A6%E6%91%98/"/>
+    <id>http://ccs.zone/2020/11/11/%E4%B9%A6%E6%91%98/</id>
+    <published>2020-11-11T14:20:48.000Z</published>
+    <updated>2021-02-28T12:48:28.096Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="书摘" scheme="http://ccs.zone/tags/%E4%B9%A6%E6%91%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hexo和Github搭建个人博客</title>
+    <link href="http://ccs.zone/2020/11/11/%E4%BD%BF%E7%94%A8Hexo%E5%92%8CVercel%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://ccs.zone/2020/11/11/%E4%BD%BF%E7%94%A8Hexo%E5%92%8CVercel%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-11-11T11:58:23.000Z</published>
+    <updated>2021-03-01T06:37:30.023Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://ccs.zone/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux下编程准备</title>
+    <link href="http://ccs.zone/2020/11/11/Linux%E4%B8%8B%E7%BC%96%E7%A8%8B%E5%87%86%E5%A4%87/"/>
+    <id>http://ccs.zone/2020/11/11/Linux%E4%B8%8B%E7%BC%96%E7%A8%8B%E5%87%86%E5%A4%87/</id>
+    <published>2020-11-11T09:57:37.000Z</published>
+    <updated>2021-02-28T12:47:39.887Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="编程" scheme="http://ccs.zone/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+</feed>
